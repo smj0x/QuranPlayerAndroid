@@ -1,0 +1,686 @@
+﻿[
+  {
+    "Number": 1,
+    "Name_En": "Al-Fatihah",
+    "Name_Ar": "سورة الفاتحة",
+    "Translation": "The Opening"
+  },
+  {
+    "Number": 2,
+    "Name_En": "Al-Baqarah",
+    "Name_Ar": "سورة البقرة",
+    "Translation": "The Cow"
+  },
+  {
+    "Number": 3,
+    "Name_En": "Al-Imran",
+    "Name_Ar": "سورة آل عمران",
+    "Translation": "The Family Of Imran"
+  },
+  {
+    "Number": 4,
+    "Name_En": "An-Nisa'",
+    "Name_Ar": "سورة النساء",
+    "Translation": "Women"
+  },
+  {
+    "Number": 5,
+    "Name_En": "Al-Ma'idah",
+    "Name_Ar": "سورة المائدة",
+    "Translation": "The Food"
+  },
+  {
+    "Number": 6,
+    "Name_En": "Al-An`am",
+    "Name_Ar": "سورة الأنعام",
+    "Translation": "The Cattle"
+  },
+  {
+    "Number": 7,
+    "Name_En": "Al-A`raf",
+    "Name_Ar": "سورة الأعراف",
+    "Translation": "The Elevated Places"
+  },
+  {
+    "Number": 8,
+    "Name_En": "Al-Anfal",
+    "Name_Ar": "سورة الأنفال",
+    "Translation": "The Spoils Of War"
+  },
+  {
+    "Number": 9,
+    "Name_En": "At-Taubah",
+    "Name_Ar": "سورة التوبة",
+    "Translation": "Repentance"
+  },
+  {
+    "Number": 10,
+    "Name_En": "Yunus",
+    "Name_Ar": "سورة يونس",
+    "Translation": "Jonah"
+  },
+  {
+    "Number": 11,
+    "Name_En": "Hud",
+    "Name_Ar": "سورة هود",
+    "Translation": "Hud"
+  },
+  {
+    "Number": 12,
+    "Name_En": "Yusuf",
+    "Name_Ar": "سورة يوسف",
+    "Translation": "Joseph"
+  },
+  {
+    "Number": 13,
+    "Name_En": "Ar-Ra`d",
+    "Name_Ar": "سورة الرعد",
+    "Translation": "The Thunder"
+  },
+  {
+    "Number": 14,
+    "Name_En": "Ibrahim",
+    "Name_Ar": "سورة ابراهيم",
+    "Translation": "Abraham"
+  },
+  {
+    "Number": 15,
+    "Name_En": "Al-Hijr",
+    "Name_Ar": "سورة الحجر",
+    "Translation": "The Rock"
+  },
+  {
+    "Number": 16,
+    "Name_En": "An-Nahl",
+    "Name_Ar": "سورة النحل",
+    "Translation": "The Bee"
+  },
+  {
+    "Number": 17,
+    "Name_En": "Al-Isra",
+    "Name_Ar": "سورة الإسراء",
+    "Translation": "The Night Journey"
+  },
+  {
+    "Number": 18,
+    "Name_En": "Al-Kahf",
+    "Name_Ar": "سورة الكهف",
+    "Translation": "The Cave"
+  },
+  {
+    "Number": 19,
+    "Name_En": "Maryam",
+    "Name_Ar": "سورة مريم",
+    "Translation": "Mary"
+  },
+  {
+    "Number": 20,
+    "Name_En": "Ta Ha",
+    "Name_Ar": "سورة طه",
+    "Translation": "Ta Ha"
+  },
+  {
+    "Number": 21,
+    "Name_En": "Al-Anbiya'",
+    "Name_Ar": "سورة الأنبياء",
+    "Translation": "The Prophets"
+  },
+  {
+    "Number": 22,
+    "Name_En": "Al-Hajj",
+    "Name_Ar": "سورة الحج",
+    "Translation": "The Pilgrimage"
+  },
+  {
+    "Number": 23,
+    "Name_En": "Al-Mu'minun",
+    "Name_Ar": "سورة المؤمنون",
+    "Translation": "The Believers"
+  },
+  {
+    "Number": 24,
+    "Name_En": "An-Nur",
+    "Name_Ar": "سورة النور",
+    "Translation": "The Light"
+  },
+  {
+    "Number": 25,
+    "Name_En": "Al-Furqan",
+    "Name_Ar": "سورة الفرقان",
+    "Translation": "The Criterion"
+  },
+  {
+    "Number": 26,
+    "Name_En": "Ash-Shu`ara'",
+    "Name_Ar": "سورة الشعراء",
+    "Translation": "The Poets"
+  },
+  {
+    "Number": 27,
+    "Name_En": "An-Naml",
+    "Name_Ar": "سورة النمل",
+    "Translation": "The Ant"
+  },
+  {
+    "Number": 28,
+    "Name_En": "Al-Qasas",
+    "Name_Ar": "سورة القصص",
+    "Translation": "The Narrative"
+  },
+  {
+    "Number": 29,
+    "Name_En": "Al-`Ankabut",
+    "Name_Ar": "سورة العنكبوت",
+    "Translation": "The Spider"
+  },
+  {
+    "Number": 30,
+    "Name_En": "Ar-Rum",
+    "Name_Ar": "سورة الروم",
+    "Translation": "The Romans"
+  },
+  {
+    "Number": 31,
+    "Name_En": "Luqman",
+    "Name_Ar": "سورة لقمان",
+    "Translation": "Lukman"
+  },
+  {
+    "Number": 32,
+    "Name_En": "As-Sajdah",
+    "Name_Ar": "سورة السجدة",
+    "Translation": "The Adoration"
+  },
+  {
+    "Number": 33,
+    "Name_En": "Al-Ahzab",
+    "Name_Ar": "سورة الأحزاب",
+    "Translation": "The Allies"
+  },
+  {
+    "Number": 34,
+    "Name_En": "Saba'",
+    "Name_Ar": "سورة سبإ",
+    "Translation": "Sheba"
+  },
+  {
+    "Number": 35,
+    "Name_En": "Fatir",
+    "Name_Ar": "سورة فاطر",
+    "Translation": "The Creator"
+  },
+  {
+    "Number": 36,
+    "Name_En": "Ya Sin",
+    "Name_Ar": "سورة يس",
+    "Translation": "Ya Sin"
+  },
+  {
+    "Number": 37,
+    "Name_En": "As-Saffat",
+    "Name_Ar": "سورة الصافات",
+    "Translation": "The Rangers"
+  },
+  {
+    "Number": 38,
+    "Name_En": "Sad",
+    "Name_Ar": "سورة ص",
+    "Translation": "Sad"
+  },
+  {
+    "Number": 39,
+    "Name_En": "Az-Zumar",
+    "Name_Ar": "سورة الزمر",
+    "Translation": "The Companies"
+  },
+  {
+    "Number": 40,
+    "Name_En": "Ghafir",
+    "Name_Ar": "سورة غافر",
+    "Translation": "The Forgiving One"
+  },
+  {
+    "Number": 41,
+    "Name_En": "Fussilat",
+    "Name_Ar": "سورة فصلت",
+    "Translation": "Revelations Well Expounded"
+  },
+  {
+    "Number": 42,
+    "Name_En": "Ash-Shura",
+    "Name_Ar": "سورة الشورى",
+    "Translation": "The Counsel"
+  },
+  {
+    "Number": 43,
+    "Name_En": "Az-Zukhruf",
+    "Name_Ar": "سورة الزخرف",
+    "Translation": "The Embellishment"
+  },
+  {
+    "Number": 44,
+    "Name_En": "Ad-Dukhan",
+    "Name_Ar": "سورة الدخان",
+    "Translation": "The Evident Smoke"
+  },
+  {
+    "Number": 45,
+    "Name_En": "Al-Jathiyah",
+    "Name_Ar": "سورة الجاثية",
+    "Translation": "The Kneeling"
+  },
+  {
+    "Number": 46,
+    "Name_En": "Al-Ahqaf",
+    "Name_Ar": "سورة الأحقاف",
+    "Translation": "The Sandhills"
+  },
+  {
+    "Number": 47,
+    "Name_En": "Muhammad",
+    "Name_Ar": "سورة محمد",
+    "Translation": "Muhammad"
+  },
+  {
+    "Number": 48,
+    "Name_En": "Al-Fath",
+    "Name_Ar": "سورة الفتح",
+    "Translation": "The Victory"
+  },
+  {
+    "Number": 49,
+    "Name_En": "Al-Hujurat",
+    "Name_Ar": "سورة الحجرات",
+    "Translation": "The Chambers"
+  },
+  {
+    "Number": 50,
+    "Name_En": "Qaf",
+    "Name_Ar": "سورة ق",
+    "Translation": "Qaf"
+  },
+  {
+    "Number": 51,
+    "Name_En": "Ad-Dhariyat",
+    "Name_Ar": "سورة الذاريات",
+    "Translation": "The Scatterers"
+  },
+  {
+    "Number": 52,
+    "Name_En": "At-Tur",
+    "Name_Ar": "سورة الطور",
+    "Translation": "The Mountain"
+  },
+  {
+    "Number": 53,
+    "Name_En": "An-Najm",
+    "Name_Ar": "سورة النجم",
+    "Translation": "The Star"
+  },
+  {
+    "Number": 54,
+    "Name_En": "Al-Qamar",
+    "Name_Ar": "سورة القمر",
+    "Translation": "The Moon"
+  },
+  {
+    "Number": 55,
+    "Name_En": "Ar-Rahman",
+    "Name_Ar": "سورة الرحمن",
+    "Translation": "The Merciful"
+  },
+  {
+    "Number": 56,
+    "Name_En": "Al-Waqi`ah",
+    "Name_Ar": "سورة الواقعة",
+    "Translation": "That Which is Coming"
+  },
+  {
+    "Number": 57,
+    "Name_En": "Al-Hadid",
+    "Name_Ar": "سورة الحديد",
+    "Translation": "The Iron"
+  },
+  {
+    "Number": 58,
+    "Name_En": "Al-Mujadilah",
+    "Name_Ar": "سورة المجادلة",
+    "Translation": "She Who Pleaded"
+  },
+  {
+    "Number": 59,
+    "Name_En": "Al-Hashr",
+    "Name_Ar": "سورة الحشر",
+    "Translation": "The Exile"
+  },
+  {
+    "Number": 60,
+    "Name_En": "Al-Mumtahanah",
+    "Name_Ar": "سورة الممتحنة",
+    "Translation": "She Who is Tested"
+  },
+  {
+    "Number": 61,
+    "Name_En": "As-Saff",
+    "Name_Ar": "سورة الصف",
+    "Translation": "The Ranks"
+  },
+  {
+    "Number": 62,
+    "Name_En": "Al-Jumu`ah",
+    "Name_Ar": "سورة الجمعة",
+    "Translation": "The Day of Congregation"
+  },
+  {
+    "Number": 63,
+    "Name_En": "Al-Munafiqun",
+    "Name_Ar": "سورة المنافقون",
+    "Translation": "The Hypocrites"
+  },
+  {
+    "Number": 64,
+    "Name_En": "At-Taghabun",
+    "Name_Ar": "سورة التغابن",
+    "Translation": "The Cheating"
+  },
+  {
+    "Number": 65,
+    "Name_En": "At-Talaq,",
+    "Name_Ar": "سورة الطلاق",
+    "Translation": "The Divorce"
+  },
+  {
+    "Number": 66,
+    "Name_En": "At-Tahrim",
+    "Name_Ar": "سورة التحريم",
+    "Translation": "The Prohibition"
+  },
+  {
+    "Number": 67,
+    "Name_En": "Al-Mulk",
+    "Name_Ar": "سورة الملك",
+    "Translation": "The Kingdom"
+  },
+  {
+    "Number": 68,
+    "Name_En": "Al-Qalam",
+    "Name_Ar": "سورة القلم",
+    "Translation": "The Pen"
+  },
+  {
+    "Number": 69,
+    "Name_En": "Al-Haqqah",
+    "Name_Ar": "سورة الحاقة",
+    "Translation": "The Inevitable"
+  },
+  {
+    "Number": 70,
+    "Name_En": "Al-Ma`arij",
+    "Name_Ar": "سورة المعارج",
+    "Translation": "The Ladders"
+  },
+  {
+    "Number": 71,
+    "Name_En": "Nuh",
+    "Name_Ar": "سورة نوح",
+    "Translation": "Noah"
+  },
+  {
+    "Number": 72,
+    "Name_En": "Al-Jinn",
+    "Name_Ar": "سورة الجن",
+    "Translation": "The Jinn"
+  },
+  {
+    "Number": 73,
+    "Name_En": "Al-Muzammil",
+    "Name_Ar": "سورة المزمل",
+    "Translation": "The Mantled One"
+  },
+  {
+    "Number": 74,
+    "Name_En": "Al-Mudathir",
+    "Name_Ar": "سورة المدثر",
+    "Translation": "The Clothed One"
+  },
+  {
+    "Number": 75,
+    "Name_En": "Al-Qiyamah",
+    "Name_Ar": "سورة القيامة",
+    "Translation": "The Resurrection"
+  },
+  {
+    "Number": 76,
+    "Name_En": "Al-Insane",
+    "Name_Ar": "سورة الانسان",
+    "Translation": "The Man"
+  },
+  {
+    "Number": 77,
+    "Name_En": "Al-Mursalat",
+    "Name_Ar": "سورة المرسلات",
+    "Translation": "The Emissaries"
+  },
+  {
+    "Number": 78,
+    "Name_En": "An-Naba'",
+    "Name_Ar": "سورة النبإ'",
+    "Translation": "The Tidings"
+  },
+  {
+    "Number": 79,
+    "Name_En": "An-Nazi`at",
+    "Name_Ar": "سورة النازعات",
+    "Translation": "Those Who Pull Out"
+  },
+  {
+    "Number": 80,
+    "Name_En": "`Abasa",
+    "Name_Ar": "سورة عبس",
+    "Translation": "He Frowned"
+  },
+  {
+    "Number": 81,
+    "Name_En": "At-Takwir",
+    "Name_Ar": "سورة التكوير",
+    "Translation": "The Cessation"
+  },
+  {
+    "Number": 82,
+    "Name_En": "Al-Infitar",
+    "Name_Ar": "سورة الإنفطار",
+    "Translation": "The Cleaving Asunder"
+  },
+  {
+    "Number": 83,
+    "Name_En": "Al-Mutaffifeen",
+    "Name_Ar": "سورة المطففين",
+    "Translation": "The Defrauders"
+  },
+  {
+    "Number": 84,
+    "Name_En": "Al-Inshiqaq",
+    "Name_Ar": "سورة الإنشقاق",
+    "Translation": "The Rending"
+  },
+  {
+    "Number": 85,
+    "Name_En": "Al-Buruj",
+    "Name_Ar": "سورة البروج",
+    "Translation": "the Constellations"
+  },
+  {
+    "Number": 86,
+    "Name_En": "At-Tariq",
+    "Name_Ar": "سورة الطارق",
+    "Translation": "The Night-Comer"
+  },
+  {
+    "Number": 87,
+    "Name_En": "Al-A`la",
+    "Name_Ar": "سورة الأعلى",
+    "Translation": "The Most High"
+  },
+  {
+    "Number": 88,
+    "Name_En": "Al-Ghashiya",
+    "Name_Ar": "سورة الغاشية",
+    "Translation": "The Overwhelming Calamity"
+  },
+  {
+    "Number": 89,
+    "Name_En": "Al-Fajr",
+    "Name_Ar": "سورة الفجر",
+    "Translation": "The Dawn"
+  },
+  {
+    "Number": 90,
+    "Name_En": "Al-Balad",
+    "Name_Ar": "سورة البلد",
+    "Translation": "The City"
+  },
+  {
+    "Number": 91,
+    "Name_En": "Ash-Shams",
+    "Name_Ar": "سورة الشمس",
+    "Translation": "The Sun"
+  },
+  {
+    "Number": 92,
+    "Name_En": "Al-Layl",
+    "Name_Ar": "سورة الليل",
+    "Translation": "The Night"
+  },
+  {
+    "Number": 93,
+    "Name_En": "Ad-Duha",
+    "Name_Ar": "سورة الضحى",
+    "Translation": "The Early Hours"
+  },
+  {
+    "Number": 94,
+    "Name_En": "Ash-Sharh",
+    "Name_Ar": "سورة الشرح",
+    "Translation": "The Expansion"
+  },
+  {
+    "Number": 95,
+    "Name_En": "At-Tin",
+    "Name_Ar": "سورة التين",
+    "Translation": "The Fig"
+  },
+  {
+    "Number": 96,
+    "Name_En": "Al-`Alaq",
+    "Name_Ar": "سورة العلق",
+    "Translation": "The Clot"
+  },
+  {
+    "Number": 97,
+    "Name_En": "Al-qadr",
+    "Name_Ar": "سورة القدر",
+    "Translation": "The Majesty"
+  },
+  {
+    "Number": 98,
+    "Name_En": "Al-Bayyinah",
+    "Name_Ar": "سورة البينة",
+    "Translation": "The Proof"
+  },
+  {
+    "Number": 99,
+    "Name_En": "Az-Zalzala",
+    "Name_Ar": "سورة الزلزلة",
+    "Translation": "The Shaking"
+  },
+  {
+    "Number": 100,
+    "Name_En": "Al-`Adiyat",
+    "Name_Ar": "سورة العاديات",
+    "Translation": "The Assaulters"
+  },
+  {
+    "Number": 101,
+    "Name_En": "Al-Qari`ah",
+    "Name_Ar": "سورة القارعة",
+    "Translation": "The Terrible Calamity"
+  },
+  {
+    "Number": 102,
+    "Name_En": "At-Takathur",
+    "Name_Ar": "سورة التكاثر",
+    "Translation": "Worldly Gain"
+  },
+  {
+    "Number": 103,
+    "Name_En": "Al-`Asr",
+    "Name_Ar": "سورة العصر",
+    "Translation": "Time"
+  },
+  {
+    "Number": 104,
+    "Name_En": "Al-Humazah",
+    "Name_Ar": "سورة الهمزة",
+    "Translation": "The Slanderer"
+  },
+  {
+    "Number": 105,
+    "Name_En": "Al-Fil",
+    "Name_Ar": "سورة الفيل",
+    "Translation": "The Elephant"
+  },
+  {
+    "Number": 106,
+    "Name_En": "Al-Quraish",
+    "Name_Ar": "سورة قريش",
+    "Translation": "The Quraish"
+  },
+  {
+    "Number": 107,
+    "Name_En": "Al-Ma`un",
+    "Name_Ar": "سورة الماعون",
+    "Translation": "The Daily Necessaries"
+  },
+  {
+    "Number": 108,
+    "Name_En": "Al-Kauthar",
+    "Name_Ar": "سورة الكوثر",
+    "Translation": "Abundance"
+  },
+  {
+    "Number": 109,
+    "Name_En": "Al-Kafirun",
+    "Name_Ar": "سورة الكافرون",
+    "Translation": "The Unbelievers"
+  },
+  {
+    "Number": 110,
+    "Name_En": "An-Nasr",
+    "Name_Ar": "سورة النصر",
+    "Translation": "The Help"
+  },
+  {
+    "Number": 111,
+    "Name_En": "Al-Masad",
+    "Name_Ar": "سورة المسد",
+    "Translation": "The Palm Fibre"
+  },
+  {
+    "Number": 112,
+    "Name_En": "Al-Ikhlas",
+    "Name_Ar": "سورة الإخلاص",
+    "Translation": "The Unity"
+  },
+  {
+    "Number": 113,
+    "Name_En": "Al-Falaq",
+    "Name_Ar": "سورة الفلق",
+    "Translation": "The Daybreak"
+  },
+  {
+    "Number": 114,
+    "Name_En": "An-Nas",
+    "Name_Ar": "سورة الناس",
+    "Translation": "The Men"
+  }
+]

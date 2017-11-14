@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quran Player</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="aboutBtn">about</string>
+    <string name="dev">Developer: Syed Mohammed\nEmail: syedmohmad@gmail.com</string>
+
+    <!--Settings-->
+    <string-array name="Language">
+        <item>English</item>
+        <item>Arabic</item>
+    </string-array>
+
+ </resources>

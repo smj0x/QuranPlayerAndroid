@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:right="8dp"
+        android:top="3.5dp"> <!-- Your Margin -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <gradient
+        android:angle="0"
+        android:endColor="@color/colorAccent"
+        android:centerColor="@color/colorAccent"
+        android:startColor="@color/colorAccent" />
+
+    <corners android:radius="8dp" />
+    <size android:width="15dp"/>
+    <padding
+        android:left="0.5dp"
+        android:right="0.5dp" />
+</shape>
+    </item>
+</layer-list>
