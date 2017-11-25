@@ -33,13 +33,12 @@
             android:textSize="32sp"
             android:textStyle="bold" />
         <TextView
-
+            android:id="@+id/versionName"
             android:gravity="center"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:textSize="12sp"
-            android:text="Version: 1.0" />
+            android:textSize="12sp" />
         <TextView
             android:gravity="center"
             android:layout_width="match_parent"

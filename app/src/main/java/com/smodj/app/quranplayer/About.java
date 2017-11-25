@@ -1,5 +1,6 @@
 package com.smodj.app.quranplayer;
 
+import android.content.pm.PackageManager;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.support.design.widget.Snackbar;
@@ -12,6 +13,7 @@ import android.view.animation.LinearInterpolator;
 import android.view.animation.RotateAnimation;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 
 /**
  * Created by smj on 11/3/17.
@@ -21,15 +23,20 @@ public class About extends AppCompatActivity {
     LinearLayout linearLayout;
     Animation animate;
     ImageView logo;
+    TextView version;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.about);
         setActionBar("About");
+        String versionName ="Version: "+getAppVersion();
+        version = findViewById(R.id.versionName);
+        version.setText(versionName);
         linearLayout = findViewById(R.id.welcomeIcon);
         logo = findViewById(R.id.aboutLogo);
         animate = AnimationUtils.loadAnimation(this, R.anim.dropdown);
         logo.setAnimation(animate);
+
 
     }
     public void aboutLogo(View view){
@@ -56,6 +63,16 @@ public class About extends AppCompatActivity {
     public boolean onSupportNavigateUp(){
         finish();
         return true;
+    }
+    public String getAppVersion() {
+        String versionCode = "1.0";
+        try {
+            versionCode = getPackageManager().getPackageInfo(getPackageName(), 0).versionName;
+        } catch (PackageManager.NameNotFoundException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+        return versionCode;
     }
 
 }

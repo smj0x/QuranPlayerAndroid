@@ -74,18 +74,18 @@ public class MainActivity extends AppCompatActivity
 
     private void settinglang(String lang) {
       if(lang == null){
-          jsonFile = "english.json";
+          jsonFile = Constants.jsonEn;
       }else{
         switch (lang) {
             case "English":
 
-                jsonFile = "english.json";
+                jsonFile = Constants.jsonEn;
                 break;
             case "Arabic":
-                jsonFile = "arabic.json";
+                jsonFile = Constants.jsonAr;
                 break;
             default:
-                jsonFile = "english.json";
+                jsonFile = Constants.jsonEn;
                 break;
         }
       }
@@ -163,19 +163,9 @@ public class MainActivity extends AppCompatActivity
     }
 
     public String loadJSONFromAsset() {
-        String json = null;
-        try {
-            InputStream is = getAssets().open(jsonFile);
-            int size = is.available();
-            byte[] buffer = new byte[size];
-            is.read(buffer);
-            is.close();
-            json = new String(buffer, "UTF-8");
-
-        } catch (IOException ex) {
-            ex.printStackTrace();
-        }
-        return json;
+        StorageHelper sh = new StorageHelper(this);
+        String result = sh.read(jsonFile);
+        return result;
     }
 
 }

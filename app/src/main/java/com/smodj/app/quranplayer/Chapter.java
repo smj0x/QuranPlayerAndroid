@@ -175,7 +175,7 @@ public class Chapter extends AppCompatActivity{
     public String loadJSONFromAsset() {
         String json = null;
         try {
-            InputStream is = getAssets().open("xhapter.json");
+            InputStream is = getAssets().open(Constants.chapters);
             int size = is.available();
             byte[] buffer = new byte[size];
             is.read(buffer);

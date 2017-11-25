@@ -15,6 +15,10 @@
         android:title="Display Name"
         android:summary="Set your Name in Navigation Drawer"/>
 
+    <com.smodj.app.quranplayer.SyncDialog
+        android:title="Sync"
+        android:summary="Update your Quran Library"/>
+
     <Preference
         android:key="@string/aboutBtn"
         android:title="About">

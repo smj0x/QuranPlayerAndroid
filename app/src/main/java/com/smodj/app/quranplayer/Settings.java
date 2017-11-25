@@ -2,12 +2,15 @@ package com.smodj.app.quranplayer;
 
 import android.app.Fragment;
 import android.app.FragmentTransaction;
+import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.preference.Preference;
 import android.preference.PreferenceFragment;
 import android.support.v7.app.ActionBar;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -36,9 +39,8 @@ public class Settings extends AppCompatActivity {
             frag = getFragmentManager().findFragmentByTag("settings_fragment");
         }
 
-
-
     }
+
 
     // Settings Fragments
     public static class SettingsScreen extends PreferenceFragment{
@@ -46,11 +48,10 @@ public class Settings extends AppCompatActivity {
         public void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
             addPreferencesFromResource(R.xml.settings_screen);
+
         }
 
     }
-
-
 
     public void setActionBar(String heading) {
         // TODO Auto-generated method stub
